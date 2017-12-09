@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2232,3 +2233,6 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 # Tim-Baker-Personal-Website
 My personal website built with ReactJS
 >>>>>>> 4a7c79cfc3220bfbdbf842e4b91c976ef568ea60
+=======
+
+>>>>>>> d0b122c549dc30198900fe71b5c87883b5c72199
