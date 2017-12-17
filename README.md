@@ -1,5 +1,5 @@
 # Tim Baker Development      
-![ReactJS Resume Website](readme.png?raw=true "ReactJS Resume Website")
+![ReactJS Resume Website](readme.jpg?raw=true "ReactJS Resume Website")
 ### <a href="https://timbakerdev.com/">Check It Out Here</a> 
 
 ## Description
