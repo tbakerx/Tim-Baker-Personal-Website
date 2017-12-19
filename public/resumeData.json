@@ -22,32 +22,37 @@
       {
         "name":"facebook",
         "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "url":"fa fa-facebook"
       },
       {
         "name":"google-plus",
         "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "url":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "url":"fa fa-linkedin"
       },
       {
         "name":"instagram",
         "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "url":"fa fa-instagram"
+      },
+      {
+        "name":"stack-overflow",
+        "url":"https://stackoverflow.com/users/8553186/tim-baker?tab=profile",
+        "url":"fa fa-stack-overflow"
       },
       {
         "name":"github",
         "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
+        "url":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
     "education":[
       {
         "school":"University of Victoria",
@@ -64,46 +69,58 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"City of Fort St. John",
+        "title":"Utility Maintenance Technician 1 / Labourer ",
+        "years":"April 2014 - September 2017",
+        "description":"Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"School District 60",
+        "title":"IT Technician",
+        "years":"April 2012 - September 2013",
+        "description":"Here I was in charge of various duties involved in keeping the school district's computer systems running smoothly. I performed a varied range of tasks including, but not limited to, reimaging the laptops that the students were given, setting up computer labs, setting up and troubleshooting servers, secure discarding of sensitive data, and a small amount of network analysis."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "description":"I use Git for nearly every one of my projects.",
+        "image":"react.jpg"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Java",
+        "description":"I use Git for nearly every one of my projects.",
+        "image":"react.jpg"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"React Js",
+        "description":"I use Git for nearly every one of my projects.",
+        "image":"react.jpg"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Node JS",
+        "description":"I use Git for nearly every one of my projects.",
+        "image":"react.jpg"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"Meteor JS",
+        "description":"I use Git for nearly every one of my projects.",
+        "image":"react.jpg"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Bootstrap 4",
+        "description":"I use Git for nearly every one of my projects.",
+        "image":"react.jpg"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "description":"I use Git for nearly every one of my projects.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Git for nearly every one of my projects.",
+        "image":"react.jpg"
       }
     ]
   },
@@ -131,7 +148,7 @@
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/tbakerx/react-resume-template"
       },
       {
         "title":"Smirkspace",
