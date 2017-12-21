@@ -9,4 +9,14 @@
 .feature-item{
   text-align: center;
   margin-top:2.5em;
+  padding-left:2em;
+  padding-right:2em;
+}
+
+.center{
+  text-align: center;
+}
+
+.warning{
+  color: red;
 }

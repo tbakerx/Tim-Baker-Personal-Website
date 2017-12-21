@@ -85,12 +85,12 @@
       {
         "name":"Git",
         "description":"I use Git for nearly every one of my projects.",
-        "image":"react.jpg"
+        "image":"git.jpg"
       },
       {
         "name":"Java",
         "description":"I use Git for nearly every one of my projects.",
-        "image":"react.jpg"
+        "image":"java.jpg"
       },
       {
         "name":"React Js",
@@ -100,27 +100,27 @@
       {
         "name":"Node JS",
         "description":"I use Git for nearly every one of my projects.",
-        "image":"react.jpg"
+        "image":"node.jpg"
       },
       {
         "name":"Meteor JS",
         "description":"I use Git for nearly every one of my projects.",
-        "image":"react.jpg"
+        "image":"meteor.jpg"
       },
       {
         "name":"Bootstrap 4",
         "description":"I use Git for nearly every one of my projects.",
-        "image":"react.jpg"
+        "image":"bootstrap.jpg"
       },
       {
         "name":"MongoDB",
         "description":"I use Git for nearly every one of my projects.",
-        "image":"react.jpg"
+        "image":"mongo.jpg"
       },
       {
         "name":"Heroku",
         "description":"I use Git for nearly every one of my projects.",
-        "image":"react.jpg"
+        "image":"heroku.jpg"
       }
     ]
   },
@@ -161,12 +161,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Alastair Beaumont - Web Developer at AppColony"
       }
     ]
   }

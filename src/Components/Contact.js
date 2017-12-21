@@ -27,6 +27,8 @@ class Contact extends Component {
             <div className="ten columns">
 
                   <p className="lead">{message}</p>
+                  <br/>
+                  <p className="lead warning">Warning: Contact form not yet configured, please contact me via normal email for now</p>
 
             </div>
 
