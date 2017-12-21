@@ -22,32 +22,32 @@
       {
         "name":"facebook",
         "url":"http://facebook.com/tim.baker.906",
-        "url":"fa fa-facebook"
+        "className":"fa fa-facebook"
       },
       {
         "name":"google-plus",
         "url":"http://googleplus.com/tbakerx",
-        "url":"fa fa-google-plus"
+        "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "url":"fa fa-linkedin"
+        "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
         "url":"http://instagram.com/tbaker_x",
-        "url":"fa fa-instagram"
+        "className":"fa fa-instagram"
       },
       {
         "name":"stack-overflow",
         "url":"https://stackoverflow.com/users/8553186/tim-baker?tab=profile",
-        "url":"fa fa-stack-overflow"
+        "className":"fa fa-stack-overflow"
       },
       {
         "name":"github",
         "url":"http://github.com/tbakerx",
-        "url":"fa fa-github"
+        "className":"fa fa-github"
       }
     ]
   },
