@@ -20,19 +20,3 @@
 .warning{
   color: red;
 }
-
-#ajax-loader{
-  position: relative;
-  height: 800px;
-  min-height: 500px;
-  width: 100%;
-  background: #000;
-  background-size: cover !important;
- -webkit-background-size: cover !important;
-  text-align: center;
-  overflow: hidden;
-}
-
-#ajax-loader img{
-  
-}
