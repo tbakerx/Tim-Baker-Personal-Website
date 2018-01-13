@@ -19,7 +19,7 @@ class Resume extends Component {
       var skills = this.props.data.skills.map(function(skills){
       var projectImage = 'images/tech/'+skills.image;
         return <div key={skills.name} className="columns feature-item">
-                  <img alt={skills.name} src={projectImage} />
+                  <img className='skill' alt={skills.name} src={projectImage} />
                   <h5>{skills.name}</h5>
                   <p>{skills.description}</p>
                </div>
