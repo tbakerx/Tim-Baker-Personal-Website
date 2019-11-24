@@ -52,8 +52,11 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
+   padding-top: 30px;
    text-align: center;
+   background-color: rgba(0,0,0, 0.6);
+   border-radius: 2em;
 }
 
 header .banner-text { width: 100%; }
@@ -148,7 +151,7 @@ header .scrolldown a:hover { color: #179038; }
 ul#nav {
    min-height: 48px;
    width: auto;
-
+   background-color: rgba(0,0,0, 0.6);
    /* center align the menu */
    text-align: center;
 }
