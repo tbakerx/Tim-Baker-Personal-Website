@@ -64,6 +64,12 @@
     ],
     "work":[
       {
+        "company":"Shop Your Own Mortgage",
+        "title": "Software Security Engineer",
+        "years": "August 2017 - Present",
+        "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security as a whole."
+      },
+      {
         "company":"City of Fort St. John",
         "title":"Utility Maintenance Technician 1 / Labourer ",
         "years":"April 2014 - September 2017",
