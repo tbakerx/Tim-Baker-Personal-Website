@@ -20,3 +20,84 @@
 .warning{
   color: red;
 }
+
+/* Research Home Styles */
+.research-home {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #ffffff;
+  min-height: 100vh;
+}
+
+.research-home h1,
+.research-home h2,
+.research-home h3 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Tableau Viz Responsive */
+tableau-viz {
+  display: block;
+  width: 100%;
+  min-height: 600px;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .research-home h1 {
+    font-size: 28px !important;
+  }
+
+  .research-home h2 {
+    font-size: 24px !important;
+  }
+
+  .research-home h3 {
+    font-size: 20px !important;
+  }
+
+  .research-home p {
+    font-size: 16px !important;
+  }
+
+  .research-home > div {
+    padding: 20px 15px !important;
+  }
+
+  tableau-viz {
+    min-height: 400px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .research-home h1 {
+    font-size: 22px !important;
+  }
+
+  .research-home h2 {
+    font-size: 20px !important;
+  }
+
+  .research-home > div {
+    padding: 15px 10px !important;
+  }
+}
+
+/* Smooth Transitions */
+.research-home a {
+  transition: all 0.3s ease;
+}
+
+.research-home a:hover {
+  opacity: 0.8;
+}
+
+/* Print Styles */
+@media print {
+  .research-home {
+    background: white;
+  }
+
+  tableau-viz {
+    page-break-inside: avoid;
+  }
+}

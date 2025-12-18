@@ -1,6 +1,7 @@
 {
-  "name": "tim-baker-personal-web",
-  "version": "0.1.0",
+  "name": "psoriasis-research-topic-model",
+  "version": "1.0.0",
+  "homepage": "https://psknlr.github.io/",
   "private": true,
   "dependencies": {
     "jquery": "^3.2.1",
@@ -13,6 +14,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }

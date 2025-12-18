@@ -1,176 +1,126 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": " Full Stack Software Engineer",
-    "description": " currently employed by ",
-    "employer": "Instant Domain Search",
-    "jobDescription": "push pixels, shuffle data, and slap my keyboard until everything works",
+    "name": "Psoriasis Research",
+    "occupation": "Neural Topic Model Analysis",
+    "description": "Research conducted by ",
+    "employer": "Institute of Medical Philosophy and Future AI (IMPFAI)",
+    "jobDescription": "identify research hotspots and trends using autotuned topic modeling with AI agents",
     "image": "profile_pic.jpg",
-    "bio": "I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Born in a small town in Northern BC, I made my move to Victoria where I work as a full stack developer for Instant Domain Search, alongside my many ongoing projects. I love to create and tend to keep a few too many projects on the go at a time. Outside of work I am an avid motorcyclist, soccer player and Muay Thai fighter. I love to travel and lead a fairly nomadic lifestyle. I built much of my early portfolio from beaches of Southeast Asia and dream of being able to take my work with me while travelling the world.",
-    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
-    "email": "tbakerx@gmail.com",
-    "phone": "(250) 793-0920",
-    "address": {
-      "street": "Pacific Avenue",
-      "city": "Victoria",
-      "state": "British Columbia",
-      "zip": "V9A 1L6"
+    "bio": "This research project leverages advanced neural topic modeling and AI agents to analyze psoriasis literature. Our work has been published in the Journal of Investigative Dermatology and represents a significant contribution to understanding research trends in dermatology. The interactive visualization tools enable clinicians and patients to explore research topics and developments in the field efficiently.",
+    "publication": {
+      "title": "Identifying Research Hotspots and Trends in Psoriasis Literature: Autotuned Topic Modeling with Agent",
+      "authors": "Wu, S., Wang, D., Gu, X., Xiao, R., Gao, H., Yang, B., & Kang, Y.",
+      "year": "2025",
+      "journal": "Journal of Investigative Dermatology",
+      "citation": "Wu, S., Wang, D., Gu, X., Xiao, R., Gao, H., Yang, B., & Kang, Y. (2025). Identifying Research Hotspots and Trends in Psoriasis Literature: Autotuned Topic Modeling with Agent. Journal of Investigative Dermatology."
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "https://drive.google.com/uc?export=pdf&id=1JZ_9_koC-W0jVg39lGh8Jd0hwJzv8kqn",
+    "institute": {
+      "name": "Institute of Medical Philosophy and Future AI",
+      "abbreviation": "IMPFAI",
+      "website": "https://impfai.github.io/"
+    },
+    "contactmessage": "For inquiries about this research or collaboration opportunities, please contact us through the Institute of Medical Philosophy and Future AI.",
+    "email": "research@impfai.org",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Research Institute",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://impfai.github.io/",
+    "resumedownload": "",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbakerx",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "stack-overflow",
-        "url": "https://stackoverflow.com/users/8553186/tim-baker?tab=profile",
-        "className": "fa fa-stack-overflow"
+        "name": "website",
+        "url": "https://impfai.github.io/",
+        "className": "fa fa-globe"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/impfai",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage": "This research employs cutting-edge technologies in natural language processing and data visualization",
     "education": [
       {
-        "school": "University of Victoria",
-        "degree": "Bachelors in Computer Science, Software Engineering Option",
-        "graduated": "Expected April 2018",
-        "description": "Under the recommendation and Guidance of the Head Coach of the UVIC soccer team, I transferred to the University of Victoria. Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
-      },
-      {
-        "school": "Grande Prairie Regional College",
-        "degree": "Computer Systems Technology",
-        "graduated": "April 2013",
-        "description": "I attended GPRC for my first 2 years of post-secondary on a scholarship for the college soccer team. While here, I studied Computer Systems Technology, a 2 year lead-in to a Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I built database structures for fictional companies, created small video games, hand-coded Space Invaders from scratch in Assembly Language, built and coded an Arduino Robot to navigate obstacle courses, a lot of Java and C++ programming for data structures, and much more."
+        "school": "Institute of Medical Philosophy and Future AI",
+        "degree": "Research Focus: AI-Driven Medical Literature Analysis",
+        "graduated": "2025",
+        "description": "Our institute specializes in applying advanced artificial intelligence and natural language processing techniques to medical research. This project demonstrates the power of neural topic modeling in understanding complex medical literature landscapes, specifically in the field of dermatology and psoriasis research."
       }
     ],
     "work": [
       {
-        "company": "Instant Domain Search",
-        "title": "Full Stack Software Engineer",
-        "years": "October 2020 - Present",
-        "description": "At Instant Domain Search we help you find the perfect domain name faster than anywhere else. I was brought on as an early hire here to help take an application that had seen enormous and steady organic growth and give it the boost it deserved. \n\nAs a member of a very small but talented team, I work across the gamut of our stack. This currently consists of a React/Typescript frontend (recently migrated to Next.js), a new combination of Golang and Rust Servers, and an iOS app (soon to be React Native)."
-      },
-      {
-        "company": "Shop Your Own Mortgage",
-        "title": "Software Security Engineer",
-        "years": "August 2017 - October 2020",
-        "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security stance as a whole."
-      },
-      {
-        "company": "City of Fort St. John",
-        "title": "Utility Maintenance Technician 1 / Labourer ",
-        "years": "April 2014 - September 2017",
-        "description": "Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
-      },
-      {
-        "company": "School District 60",
-        "title": "IT Technician",
-        "years": "April 2012 - September 2013",
-        "description": "Here I was in charge of various duties involved in keeping the school district's computer systems running smoothly. I performed a varied range of tasks including, but not limited to, reimaging the laptops that the students were given, setting up computer labs, setting up and troubleshooting servers, secure discarding of sensitive data, and a small amount of network analysis."
+        "company": "Institute of Medical Philosophy and Future AI (IMPFAI)",
+        "title": "Psoriasis Literature Analysis Project",
+        "years": "2024 - 2025",
+        "description": "This research project developed an advanced neural topic model to analyze comprehensive psoriasis literature data. Using deep learning natural language processing technology, we successfully identified research hotspots and trends in psoriasis studies. The project resulted in interactive web-based visualization tools that enable clinicians and patients to efficiently explore and compare research topics across different time periods.\n\nPublished in the Journal of Investigative Dermatology (2025), this work demonstrates the significant impact of AI-driven literature analysis on medical research and patient health education."
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "name": "Neural Topic Modeling",
+        "description": "Advanced deep learning-based topic modeling techniques for analyzing large-scale medical literature datasets, enabling automatic identification of research themes and trends.",
         "image": "git.jpg"
       },
       {
-        "name": "Java",
-        "description": "Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "name": "Natural Language Processing",
+        "description": "State-of-the-art NLP techniques for processing and analyzing medical research papers, including text classification, entity recognition, and semantic analysis.",
         "image": "java.jpg"
       },
       {
-        "name": "React Js",
-        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "name": "Interactive Visualization",
+        "description": "Tableau-based interactive visualization tools that allow users to explore research topics dynamically and compare findings across different years and categories.",
         "image": "react.jpg"
       },
       {
-        "name": "Meteor JS",
-        "description": "I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
+        "name": "AI Agent Systems",
+        "description": "Autotuned AI agents for optimizing topic model parameters and enhancing the accuracy of research trend identification in medical literature.",
         "image": "meteor.jpg"
       },
-
       {
-        "name": "Node JS",
-        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "name": "Medical Informatics",
+        "description": "Application of informatics principles to dermatology research, focusing on psoriasis literature mining and knowledge discovery.",
         "image": "node.jpg"
       },
       {
-        "name": "Bootstrap 4",
-        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "name": "Data Analytics",
+        "description": "Comprehensive analysis of research patterns, publication trends, and topic evolution in psoriasis studies over time.",
         "image": "bootstrap.jpg"
-      },
-      {
-        "name": "MongoDB",
-        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
-        "image": "mongo.jpg"
-      },
-      {
-        "name": "Heroku",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.jpg"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
+        "title": "Neural Topic Model Visualization",
+        "category": "Interactive Tableau dashboard for exploring psoriasis research topics",
         "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "url": "https://psknlr.github.io/"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
+        "title": "IMPFAI Institute",
+        "category": "Institute of Medical Philosophy and Future AI official website",
         "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "url": "https://impfai.github.io/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "title": "Published Research",
+        "category": "Journal of Investigative Dermatology (2025)",
         "image": "original-thai-food.jpg",
-        "url": "https://original-thai-food.herokuapp.com/index.html"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "https://github.com/tbakerx/react-resume-template"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "url": "https://psknlr.github.io/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user": "Alastair Beaumont - Web Developer at AppColony"
+        "text": "This research represents a significant advancement in applying AI and neural topic modeling to medical literature analysis. The ability to automatically identify research hotspots and trends in psoriasis studies provides invaluable insights for both clinicians and researchers in the dermatology field.",
+        "user": "Journal of Investigative Dermatology - 2025"
       }
     ]
   }
